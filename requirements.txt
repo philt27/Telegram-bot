@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+telebot
+python-telegram-bot==13.15
+python-telegram-bot[ext]
+python-telegram-bot[all]
+MessageHandler
+filters
+Updater
+requests
+bs4
