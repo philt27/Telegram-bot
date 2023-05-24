@@ -12,3 +12,6 @@
 4. Найти хостинг для бота и запустить его! Или воспользоваться сервисов google colab (https://colab.research.google.com/) - в этом случае нужно указать в первой строчке команду на установку библиотек для работы питона с Telegram (pip install pyTelegramBotAPI) / Или развернуть его локально.
 
 5. Перейти в бот @Pictures_and_Memes_bot в Telegram и нажать Запустить!
+
+
+![Sock](https://github.com/philt27/Telegram-bot/assets/124879514/6baf8b95-a1c1-4275-bc71-fd69c7d618f2)
