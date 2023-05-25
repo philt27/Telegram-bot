@@ -1,8 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Tg-bot+-+"Pictures+and+Memes+bot")
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Tg-bot+-+'Pictures+and+Memes+bot')
 
 ```
-Это маленький бот для Telegram, который быстро найдёт картинку или мем 
-небольшого размера по твоему запросу с функцией быстрой пересылки твоим бро!
+Это маленький бот для Telegram, который быстро найдёт картинку или мем небольшого размера по твоему запросу с функцией быстрой пересылки твоим бро!
 ```
 
 Для этого нужно выполнить несколько шагов:
