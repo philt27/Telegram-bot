@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/philt27/Telegram-bot/assets/124879514/70145492-e930-4e11-acf0-d9de9db99f11" alt="Sublime's custom image"/>
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Tg-bot+-+'Pictures+and+Memes+bot')
 
 ```
@@ -23,10 +27,3 @@
 на установку библиотек для работы ``` Python ``` с ``` Telegram ```. Или разверни бот локально.
 
 5. Перейди в бот ``` @Pictures_and_Memes_bot ``` в ``` Telegram ``` и нажми Запустить!
-
-<p align="center">
-  <img src="https://github.com/philt27/Telegram-bot/assets/124879514/aa4326d8-81cb-427c-9794-be6f672a52df" alt="Sublime's custom image"/>
-</p>
-
-![Sock-round](https://github.com/philt27/Telegram-bot/assets/124879514/04557999-2ed7-4e9f-866e-5d1cf0287187)
-![Sock-round(1)](https://github.com/philt27/Telegram-bot/assets/124879514/70145492-e930-4e11-acf0-d9de9db99f11)
