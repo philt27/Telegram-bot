@@ -27,3 +27,6 @@
 <p align="center">
   <img src="https://github.com/philt27/Telegram-bot/assets/124879514/aa4326d8-81cb-427c-9794-be6f672a52df" alt="Sublime's custom image"/>
 </p>
+
+![Sock-round](https://github.com/philt27/Telegram-bot/assets/124879514/04557999-2ed7-4e9f-866e-5d1cf0287187)
+![Sock-round(1)](https://github.com/philt27/Telegram-bot/assets/124879514/70145492-e930-4e11-acf0-d9de9db99f11)
