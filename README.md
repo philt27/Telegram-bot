@@ -27,6 +27,3 @@
 на установку библиотек для работы ``` Python ``` с ``` Telegram ```. Или разверни бот локально.
 
 5. Перейди в бот ``` @Pictures_and_Memes_bot ``` в ``` Telegram ``` и нажми Запустить!
-
-
-![elon musk](https://github.com/philt27/Telegram-bot/assets/124879514/5ed341dc-a6f1-4f7f-a693-241ed1fc3bc2)
