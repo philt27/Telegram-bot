@@ -13,7 +13,7 @@
 
 1. Создай бота в ``` Telegram ```. Для этого нужно перейти в бота <a href="https://t.me/BotFather" target="_blank"> ``` [@BotFather] ``` </a> и следовать его инструкциям. В результате ты получишь ``` токен ``` для доступа к API бота. Там же в <a href="https://t.me/BotFather" target="_blank"> ``` [@BotFather] ``` </a> c помощью команд можно заменить картинку бота и описание: 
 ``` 
-/setuserpic,  /setdescription,  /setabouttext 
+/setuserpic  /setdescription  /setabouttext 
 ```
 
 2. Скачай себе проект из  ``` GitHub ```: кнопка [Code] --> Download ZIP и используй код бота из файла ``` main.py ``` с указанием своего нового ``` токена ```.
